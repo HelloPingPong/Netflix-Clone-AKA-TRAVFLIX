@@ -1,0 +1,58 @@
+3/25/23 - SETUP
+1. installed Xampp, VS Code
+2. Index page created
+3. created users table
+
+3/26/23 - FRONT END - REGISTER/LOGIN PAGE
+1. created register page
+2. form column stylized
+3. Input fields generated
+4. Preplanned form submission handling
+5. input fields stylized
+6. title section generated
+7. mock logo applied
+8. login and register links stylized
+9. login page generated
+
+3/26/23 - BACK END - REGISTER/LOGIN PAGE
+1. User first name Santized
+2. Form sanitizer class
+3. Sanitation methods
+4. Config file made
+5. establish db connection
+6. Account class created
+7. First name validation
+
+TBD ------- TBD -------- TBD - ALL ON BACK END OF REGISTER LOGIN PAGE 
+- DISPLAY ERRORS TO USERS 
+- CONSTANTS IN ERROR MESSAGES
+- VALIDATE LAST NAME 
+- VALIDATE USER NAME
+- VALIDATE EMAIL
+- VALIDATE PASSWORDS
+- STYLE ERROR MESSAGES 
+- INSERTING USER DATA TO TABLES
+- CONFIRM INSERT QUERY FUNCTION
+- DEBUG
+- WRITE THE LOG IN FUNCTION + TEST
+- STORING SESSIONS
+- RECALL LAST ENTERED VALUES
+- REMEMBERING VALUES ENTERED ON THE REGISTER PAGE 
+
+LATER LARGE SECTIONS
+1. CREATE VIDEO PREVIEW
+2. DISPLAY MOVIES AND TV SHOWS
+3. CREATE ENTITY PAGE
+4. CREATE WATCH VIDEO PAGE 
+5. "UP NEXT" OVERLAY
+6. NAVIGATION BAR
+7 TV SHOWS, MOVIES, AND CATEGORY PAGES
+8. SEARCH PAGE
+9. ACCOUNT PAGE 
+10. PAYPAL PAYMENT SUBSCRIPTION INTEGRATION.
+
+
+PERSONAL GOALS
+1. convert php sections and databinding over to VUE and then again to REACT
+2. (maybe angular as well?) - GOAL TO MAKE WORKING FUNCTION FOR EACH
+IN ORDER TO EXPAND TECH STACK AS WELL AS CAPITILIZE ON LECTURE CONTENT
